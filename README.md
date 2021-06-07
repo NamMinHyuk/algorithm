@@ -52,3 +52,4 @@ numbers	                           hand	    result
 입출력 예 #3    
 오른손잡이가 [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]를 순서대로 누르면 사용한 손은 "LLRLLRLLRL"이 됩니다.    
 
+출처 [programmers](https://programmers.co.kr/learn/courses/30/lessons/67256"링크 제목")
