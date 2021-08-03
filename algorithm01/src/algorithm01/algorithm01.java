@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm01;
 
 import java.util.HashMap;
 import java.util.Map;
